@@ -1,0 +1,8 @@
+Herança:
+
+A herença em JavaScript é baseada em protótipo (prototype), que é uma
+variavel que armazena as definições do nosso objeto.
+
+__proto__ => prototype => constructor
+
+Quando usamos o "new" para instanciar uma classe, ele ira herdar o Foo.prototype
